@@ -1,0 +1,6 @@
+{
+  "name": "MovieVerse",
+  "description": "Premium cinematic movie and authorized video streaming platform with intelligent catalog, personalized watch history, favorites, admin studio, and advertising control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
